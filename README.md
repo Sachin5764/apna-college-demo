@@ -1,3 +1,3 @@
 # apna-college-demo
 This is my first repository
-Author Aachin Verma
+Author Sachin Verma
